@@ -17,7 +17,6 @@
 ### 🔭 Right now
 
 - **LFX Mentorship Fall 2026 (interview stage):** hardware-enforced **CFI** (Zicfiss shadow stack, Zicfilp landing pads) in the **Sargantana** RISC-V core
-- **B.Tech major project:** a RISC-V SoC with a custom **systolic-array coprocessor** for genomic sequence alignment, driven through custom ISA extensions over RoCC/AXI-DMA and verified with Spike and Verilator
 
 ---
 
